@@ -1,0 +1,35 @@
+EZKMS v1.2 – One-Click Windows Activator
+GitHub: https://github.com/xnucade/EZKMS
+Legal volume-license use only
+
+────────────────────────────────────────────
+HOW TO RUN (1-CLICK)
+────────────────────────────────────────────
+1. Press Win + R
+2. Paste this command:
+
+powershell -ExecutionPolicy Bypass -Command "& {$Host.UI.RawUI.BackgroundColor='Black'; $Host.UI.RawUI.ForegroundColor='White'; Clear-Host; iex((New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/xnucade/EZKMS/refs/heads/main/EZKMS.ps1'))}"
+
+3. Press Enter
+4. Click "Yes" if prompted (Run as Administrator)
+
+Tool opens automatically.
+
+────────────────────────────────────────────
+HOW TO USE
+────────────────────────────────────────────
+• Detected edition shown at top
+• Type number (1–6) for your Windows version
+• Press Enter
+• Wait for [SUCCESS]
+• Press Enter to return to menu
+• Type 0 to exit
+
+────────────────────────────────────────────
+REQUIREMENTS
+────────────────────────────────────────────
+• Internet connection
+• Run as Administrator
+• Windows 10 / 11 (Home, Pro, Education)
+
+One command. One click. Activated.
